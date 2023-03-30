@@ -1,34 +1,37 @@
-firstSection{
+.firstSection {
   /* background-color: red; */
   display: flex;
   justify-content: right;
-  align-items:center ;
+  align-items: center;
 }
-.firstSection .item{
+
+.firstSection .item {
   /* background-color: yellow; */
   margin-right: 18px;
   font-size: 13px;
-  }
+}
 
-  .firstSection svg{
-    width: 25px;
-  }
-.firstSection img{
+.firstSection svg {
   width: 25px;
 }
-.second-section{
+
+.firstSection img {
+  width: 25px;
+}
+
+.second-section {
   /* background-color: red; */
   display: flex;
   justify-content: center;
   margin-top: 150px;
 }
-.second-section p{
+
+.second-section p {
   /* background-color: yellow; */
 
 }
-.second-section img{
+
+.second-section img {
   width: 200px;
-  
+
 }
-
-
