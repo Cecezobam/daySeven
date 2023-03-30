@@ -1,6 +1,16 @@
 /*you are not selecting the class name correctly */
 
 
+/* put . operator in the class name   
+
+  e.g  
+
+  .firstSection {
+
+  }
+*/
+
+
 firstSection {
   /* background-color: red; */
   display: flex;
